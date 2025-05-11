@@ -44,3 +44,5 @@ chore: 빌드 업무 수정, 패키지 매니저 수정, production code와 무�
 comment: 주석 추가 및 변경  
 remove: 파일, 폴더 삭제  
 rename: 파일, 폴더명 수정
+
+test: test
