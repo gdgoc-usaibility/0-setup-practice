@@ -1,5 +1,5 @@
-# 0-setup-practice
-0주차 git, conda 가상환경, env환경변수 세팅
+# 1-setup-practice
+1주차 git, conda 가상환경, env환경변수 세팅
 
 ## 제출 방법
 
